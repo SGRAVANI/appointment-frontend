@@ -1,2 +1,2 @@
-let endPoint="https://appointment-backend-lr4k.onrender.com"
+let endPoint="https://appointment-backend-mc23.onrender.com"
 export {endPoint}
