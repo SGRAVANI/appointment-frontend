@@ -1,2 +1,2 @@
-let endPoint="http://localhost:3000"
+let endPoint="https://appointment-backend-lr4k.onrender.com"
 export {endPoint}
